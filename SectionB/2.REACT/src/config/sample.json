@@ -1,0 +1,18 @@
+{
+  "m1": {
+    "description": "Chicken Fried Rice",
+    "name": "FriedRice",
+    "price": 150.0
+  },
+  "m2": {
+    "description": "Mutton Briyani",
+    "name": "Briyani",
+    "price": 175.0
+  },
+  "m3": { "description": "Idly with Vada", "name": "Idly", "price": 50.0 },
+  "m4": {
+    "description": "Dosai with potato masala ",
+    "name": "Dosai",
+    "price": 55.0
+  }
+}
