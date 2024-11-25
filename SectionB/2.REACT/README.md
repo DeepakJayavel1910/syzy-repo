@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![Home Page](./src/assets/screenshot1.png)" alt="project-screenshot" width="400" height="400/">
+![screenshot1](https://github.com/user-attachments/assets/2fbe06d6-df73-4bf6-9623-ce0cd632bc8e)
 
   
   
