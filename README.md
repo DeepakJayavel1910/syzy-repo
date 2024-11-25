@@ -1,43 +1,28 @@
-Menu Display SPA
-A sleek, responsive React Single Page Application (SPA) showcasing a menu of items fetched from a local JSON file. Built with Vite, styled using Tailwind CSS, and powered by MongoDB.
+<h1 align="center" id="title">React Challenge</h1>
 
-📜 Features
-🖥️ Dynamic Menu Display: Displays a list of food items with descriptions and prices.
-🎨 Tailwind CSS: Clean and modern styling for an elegant UI.
-⚡ Vite: Fast development environment.
+<p align="center"><img src="https://socialify.git.ci/DeepakJayavel1910/syzy-repo/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-🔧 Configuration
-Data Source: The menu data is stored in config/sample.json and structured as:
-json
-Copy code
-{
-  "m1": { "description": "Chicken Fried Rice", "name": "FriedRice", "price": 150.0 },
-  "m2": { "description": "Mutton Briyani", "name": "Briyani", "price": 175.0 },
-  "m3": { "description": "Idly with Vada", "name": "Idly", "price": 50.0 },
-  "m4": { "description": "Dosai with potato masala", "name": "Dosai", "price": 55.0 }
-}
+<p id="description">A sleek responsive React Single Page Application (SPA) showcasing a menu of items fetched from a local JSON file. Built with Vite styled using Tailwind CSS.</p>
 
-🌟 Features in Detail
-Responsive Design
-Tailored for all screen sizes, providing an optimal user experience.
+<h2>🚀 Demo</h2>
 
-Fast Development Workflow
+[https://syzy-repo-69kf.vercel.app/](https://syzy-repo-69kf.vercel.app/)
 
-Vite: For blazing-fast build and development.
-Tailwind CSS: For utility-first, customizable styling.
-💻 Tech Stack
-Frontend: React (Vite)
-Styling: Tailwind CSS
+<h2>Project Screenshots:</h2>
 
-🎨 Screenshots
-Home Page
-A simple layout displaying menu items.
+<img src="![Home Page](./assets/screenshot1.png)" alt="project-screenshot" width="400" height="400/">
 
-(Include a screenshot if available)
+  
+  
+<h2>🧐 Features</h2>
 
-📞 Contact
-For questions or feedback, reach out to:
+Here're some of the project's best features:
 
-Name: Deepak Jayavel
-Email: jayaveldeepak19@gmail.com
-GitHub: DeepakJayavel1910
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React
+*   Tailwind Css
